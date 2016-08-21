@@ -1,0 +1,9 @@
+PokemonGoMap5000.sh &
+PokemonGoBaseScan.sh &
+PokemonGoMallScan.sh &
+PokemonGoMcdScan.sh &
+PokemonGoDownTown.sh &
+PokemonGoChristinasHouse.sh &
+PokemonGoSteve1.sh &
+PokemonGoSteve2.sh &
+PokemonGoSteve3.sh &

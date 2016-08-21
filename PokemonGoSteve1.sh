@@ -1,0 +1,1 @@
+python ./runserver.py -ss -j -st 15 -ns -u Nelsonkid1 -u Nelsonkid2 -p Password -l "39.801256, -84.019995"
